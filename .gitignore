@@ -194,3 +194,4 @@ challenge/
 # WandB local sync data.
 wandb/
 
+.env
